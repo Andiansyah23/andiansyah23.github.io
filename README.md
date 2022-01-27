@@ -18,11 +18,6 @@ Serta Pembuatan Wireframe menggunakan **FIGMA**
 Themis-Us akan selalu berusaha memberikan sebuah kemudahan, dengan adanya tools yang dapat 
 memudahkan pengguna untuk menyelesaikan suatu permasalahan yang terjadi.😊
 
-Terimakasih untuk **pak koprawi** 👨‍🏫 yang telah mengajari kami membuat sebuah website. walaupun, website yang telah kami buat jauh dari kata sempurna, kami tidak akan menyerah
-dan akan terus belajar sampai mendapatkan hasil maksimal dari ujuan akhir kami nantinya. 😇
-
-**Selamat Hari Guru**
-
 # Mockup #
 ![This is an image](https://github.com/Andiansyah23/andiansyah23.github.io/blob/main/images/Mockup/THEMIS-US.png)
 
